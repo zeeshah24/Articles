@@ -1,0 +1,17 @@
+SharePoint List for Power Apps
+
+Pros:
+•	Most used as data source (~70%) for Power Apps
+•	No premium licencing reqd (included in Microsoft 365 licenses, no additional cost)
+•	Dataverse falls under the banner of a premium connector, requiring a license, any Power App or Power 	Automate license such as the Per app or Per user plans include access to Dataverse. 
+•	Better than excel
+•	Little learning curve
+•	For smaller, simpler lists within an application we would say that SharePoint lists come out as the 		better option between the two.
+
+Cons:
+•	Power apps to pass the credential to SharePoint— for access
+•	Some RDBMS features missing: Record Locking etc
+•	Importing is not smooth
+•	Give lot of issues if the column renamed.
+•	It’s been around 20 yrs, and it is not for PowerApps
+•	For bigger projects, solutions and applications that expect to scale, then Dataverse would be the 		better route to take.
